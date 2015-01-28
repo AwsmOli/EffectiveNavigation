@@ -1,0 +1,4 @@
+C:\Users\olfad\AndroidStudioProjects\EffectiveNavigation\app\build\intermediates\classes\debug
+C:\Users\olfad\AndroidStudioProjects\EffectiveNavigation\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6c679b487e130753e3ea39443d0eed4c23d9b01f.jar
+C:\Users\olfad\AndroidStudioProjects\EffectiveNavigation\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6acd746e583db93428431789da294128fd8e208d.jar
+C:\Users\olfad\AndroidStudioProjects\EffectiveNavigation\app\build\intermediates\pre-dexed\debug\classes-c0a477cc3d99ac568e8cdaa4f704f037595e7165.jar
